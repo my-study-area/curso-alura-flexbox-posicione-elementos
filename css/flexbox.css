@@ -93,6 +93,12 @@
   
   .conteudoPrincipal-cursos-link {
     width: 100%;
+    margin: 1%;
+  }
+  
+  .conteudoPrincipal-cursos-link:nth-child(4n),
+  .conteudoPrincipal-cursos-link:nth-child(4n+1) {
+    margin: 1%;
   }
   
   .rodapePrincipal-patrocinadores .container {
